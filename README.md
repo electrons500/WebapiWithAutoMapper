@@ -1,3 +1,5 @@
+![This is an image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZfJCCn77WhNA0191OJKBWw.jpeg)
+
 # AutoMapper
 AutoMapper is a simple library that helps us to transform one object type into another. It is a convention-based object-to-object mapper that requires very little configuration. 
 
